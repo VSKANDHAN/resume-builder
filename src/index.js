@@ -41,7 +41,6 @@ skillList.push(k)
     }
    let skillDiv= skillList.map((e)=><li key={e}>{e}</li>)
 
-    console.log(skillDiv);
 
     return(
         <div className='main'>
