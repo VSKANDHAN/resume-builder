@@ -107,6 +107,7 @@ color: rgb(245, 5, 121);
   .form{
     width: 90%;
     height: 60vh;
+    padding: 60px 12px;
   }
   input{
     width: 90%;
