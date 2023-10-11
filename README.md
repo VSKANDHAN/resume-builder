@@ -1,5 +1,6 @@
 # Resume-Builder this is the simple prototype for my upcoming project
 # Getting Started with Create React App
+You can check the live here[YoursResume](https://yours-resume.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
